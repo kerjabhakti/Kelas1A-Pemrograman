@@ -10,14 +10,16 @@
 
 <body>
     <script>
-        const person = {
-            firstName: "John",
-            lastName: "Doe",
-            id: 5566,
-            fullName: function () {
-                return this.firstName + " " + this.lastName;
-            }
-        };
+        function myFirst() {
+            myDisplayer("Hello");
+        }
+
+        function mySecond() {
+            myDisplayer("Goodbye");
+        }
+
+        myFirst();
+        mySecond();
     </script>
 </body>
 
