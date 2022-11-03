@@ -1,2 +1,3 @@
 # Kelas1A-Pemrograman
-INi adalah folder pekerjaan
+Ini adalah folder yang berisi Tugas Mahasiswa
+File dimasukan di Folder masing-masing
