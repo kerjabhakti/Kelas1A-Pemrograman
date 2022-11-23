@@ -1,0 +1,112 @@
+* {
+  text-decoration: none;
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Ubuntu", sans-serif;
+}
+.wrapper {
+  width: 100%;
+  position: relative;
+}
+.logo {
+  font-size: 50px;
+  font-weight: 800;
+  float: left;
+  font-family: "Ubuntu";
+  color: #fffff;
+}
+.menu {
+  float: right;
+}
+nav {
+  width: 100%;
+  margin: auto;
+  display: flex;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  z-index: 1;
+  border-bottom: 1px;
+}
+nav ul {
+  list-style-type: none;
+  margin-top: 20px;
+  padding: 0;
+  overflow: hidden;
+}
+nav ul li {
+  float: left;
+  display: inline-flex;
+}
+nav ul li a {
+  color: #ffff;
+  font-weight: bold;
+  text-align: center;
+  padding: 0px 16px 0px 16px;
+  text-decoration: none;
+}
+nav ul li a:hover {
+  text-decoration: underline;
+}
+section {
+  margin: auto;
+  display: flex;
+  margin-bottom: 50px;
+}
+.text-home {
+  margin-top: 250px;
+  text-align: center;
+}
+.container image {
+  width: 50px;
+}
+.profil {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+h3 {
+  font-family: "Ubuntu";
+  font-weight: 800px;
+  font-size: 45px;
+  margin-bottom: 20px;
+  color: #06283d;
+  width: 100%;
+  line-height: 50px;
+}
+.tengah img {
+  width: 80%;
+  border-radius: 50%;
+}
+p {
+  margin: 10px 0px 10px 0px;
+  padding: 10px 0px 10px 0px;
+}
+.tengah {
+  text-align: center;
+  width: 100%;
+}
+.list-kol {
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+}
+.card-kol {
+  width: 40%;
+  margin: auto;
+}
+.card-kol img {
+  width: 100%;
+  border-radius: 10%;
+}
+.card-kol p {
+  font-family: "Ubuntu";
+  font-weight: 800;
+  font-size: 25px;
+  text-align: center;
+  color: #06283d;
+}
