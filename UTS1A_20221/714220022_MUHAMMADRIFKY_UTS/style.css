@@ -1,0 +1,210 @@
+/* Style Keseluruhan */
+*{
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.wrapper {
+    width: 1100px;
+    margin: auto;
+    position: relative;
+}
+
+.judul {
+    font-size: 20px;
+    font-weight: 400;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+.judul img {
+    width: 10%;
+}
+
+.menu {
+    float: right;
+    
+}
+
+nav{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    line-height: 50px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background: grey;
+    z-index: 1;
+    border-bottom: 1px;
+}
+
+.tengah {
+    text-align: center;
+    width: 100%;
+}
+
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav ul li{
+    float: left;
+}
+
+nav ul li a{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 0px 16px 0px 16px;
+    text-decoration: none;
+}
+
+nav ul li a:hover{
+    text-decoration: underline;
+    color: #ffffff;
+}
+
+.parallax {
+    min-height: 100vh;
+    background-image: linear-gradient(to bottom,rgba(0,0,0,0)0%,
+    rgba(0,0,0,0.2),
+    rgba(0,0,0,0.2)),
+    url(http://www.pegipegi.com/travel/wp-content/uploads/2015/06/Museum-Geologi-Bandung.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    letter-spacing: 0.3em;
+    text-align: center;
+}
+
+.text {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: tranlate(-50%, -50%);
+}
+
+#content {
+    background-color: #181818;
+    box-sizing: border-box;
+    height: 100vh;
+    background-attachment: scroll;
+    background-size: cover;
+    max-width: 100%;
+    display: flex;
+}
+
+section{
+    margin: auto;
+    display: flex;
+    margin-bottom: 50px;
+}
+
+img {
+    width: 50%;
+    position: center;
+}
+
+.text-content{
+    color: #ffffff;
+    font-family: 'Courier New', sans-serif;
+    width: 1500px;
+    letter-spacing: 0,1em;
+    line-height: 50px;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+.card-cnd {
+    width: 20%;
+    margin: 0 auto;
+}
+
+.card-cnd img {
+    width: 80%;
+    border-radius: 50%;
+}
+
+.card-cnd p {
+    font-family: 'comic sans ms';
+    font-weight: 800;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+
+div p {
+    font-family: 'comic sans ms';
+    font-weight: 800;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+
+.parallax2 {
+    min-height: 50vh;
+    background-image: linear-gradient(to bottom,rgba(0,0,0,0)0%,
+    rgba(0,0,0,0.2),
+    rgba(0,0,0,0.2)),
+    url(https://img.bandung.go.id/images/news/2022/01/19/header/164260446210-asyiknya-wisata-edukasi-di-museum-geologi.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    letter-spacing: 0.3em;
+    text-align: center;
+}
+
+.parallax3 {
+    min-height: 80vh;
+    background-image: linear-gradient(to bottom,rgba(0,0,0,0)0%,
+    rgba(0,0,0,0.2),
+    rgba(0,0,0,0.2)),
+    url(https://3.bp.blogspot.com/-eQ9Mc6rKMQs/WP3VFu71mOI/AAAAAAAAQRM/NAm4vqxN-oI6hem_wVsmcb4JjvjOIC-WwCK4B/s1600/JAM-BUKA-MUSEUM-GEOLOGI-BANDUNG-TERBARU.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    letter-spacing: 0.3em;
+    text-align: center;
+}
+
+.parallax4 {
+    min-height: 50vh;
+    background-image: linear-gradient(to bottom,rgba(0,0,0,0)0%,
+    rgba(0,0,0,0.2),
+    rgba(0,0,0,0.2)),
+    url(https://1.bp.blogspot.com/-VpR0-QKxULo/ViWOeI9ikeI/AAAAAAAAAOU/M20LVG_Fnz4/s1600/Museum%2BGeologi%2BBandung.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    letter-spacing: 0.3em;
+    text-align: center;
+}
+
+footer{
+    font-family: 'Libre Franklin', sans-serif;
+    color: white;
+}
