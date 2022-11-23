@@ -1,0 +1,272 @@
+* {
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  /* overflow-x: hidden; */
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "open sans", sans-serif;
+  background-color: #1b2430;
+}
+/* home */
+.wrapper {
+  width: 1100px;
+  margin: auto;
+  position: relative;
+}
+
+.logo {
+  font-size: 50px;
+  font-weight: 800;
+  float: left;
+  font-family: "Courier New", Courier, monospace;
+  color: #ffecef;
+}
+
+.menu {
+  float: right;
+}
+nav {
+  width: 100%;
+  margin: auto;
+  display: flex;
+  line-height: 80px;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  background: #51557e;
+  z-index: 1;
+  border-bottom: 1px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+nav ul li {
+  float: left;
+}
+
+nav ul li a {
+  color: #ffecef;
+  font-weight: bold;
+  text-align: center;
+  padding: 0px 12px 0px 12px;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+  color: #ffcaca;
+  transition: 0.5s;
+}
+/* home */
+/* content 1 */
+/* a.tombol_biru {
+  background: #7a86b6;
+  border-radius: 20px;
+  margin-top: 20px;
+  padding: 15px 20px 15px 20px;
+  color: #ffffff;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+a.tombol_biru:hover {
+  background-color: #51557e;
+  text-decoration: none;
+} */
+
+.kata {
+  font-size: 10vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 89vh;
+  background-image: url("image/HD-wallpaper-anime-original-classroom-night.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: #e7f6f2;
+}
+
+.btn {
+  font-size: large;
+  background: #a5c9ca;
+  border-radius: 30px;
+  margin-top: 20px;
+  padding: 15px 20px 15px 20px;
+  color: #e7f6f2;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.btn:hover {
+  color: silver;
+  background: #395b64;
+  text-decoration: none;
+  transition: 0.5s;
+}
+/* content 1 */
+/* content 2 */
+#profil {
+  display: flex;
+  padding-top: 7em;
+  padding-bottom: 4em;
+}
+.gambar1 {
+  padding: 5em;
+  width: 40%;
+  border-radius: 90%;
+}
+
+.kolom {
+  padding: 3em;
+  color: #e7f6f2;
+  width: 70%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.kolom h2 {
+  padding-bottom: 1em;
+  text-align: center;
+  font-size: 40px;
+}
+
+.kolom .deskripsi {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.kolom .deskripsi p {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.deskripsi {
+  font-size: 50px;
+}
+
+.tengah {
+  text-align: center;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 3em;
+}
+
+.kolom2 {
+  padding-top: 120px;
+  padding-bottom: 60px;
+  font-size: 25px;
+  color: #e7f6f2;
+  font-weight: 600;
+}
+
+.mhs-list {
+  width: 100%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-mhs {
+  width: 20%;
+  margin: 0 auto;
+}
+
+.card-mhs img {
+  width: 80%;
+}
+
+.card-mhs a {
+  font-size: 24px;
+  text-align: center;
+  color: #e7f6f2;
+}
+
+.card-mhs a:hover {
+  text-decoration: underline;
+}
+
+.card-mhs p {
+  font-size: 20px;
+  color: #e7f6f2;
+}
+/* content 2 */
+/* content 3 */
+#akademik {
+  display: flex;
+  padding-top: 7em;
+  padding-bottom: 4em;
+}
+
+.gambar2 {
+  padding: 6em;
+  width: 35%;
+  float: right;
+  /* border-radius: 90%; */
+}
+/* content 3 */
+/* content 4 */
+.inner-footer {
+    margin: 0;
+    background-color: #2C3639;
+    width: 100%;
+}
+
+h3 {
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    font-weight: 800;
+    font-size: 50px;
+    margin-bottom: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #FFECEF;
+}
+
+.social-items {
+    font-size: 2em;
+    display: flex;
+    justify-content: center;
+    padding: 16px;
+}
+
+.social-items a {
+    background: #3F3351;
+    border-radius: 20px;
+    padding: 10px 30px 10px 30px;
+    color: #ffffff;
+    cursor: pointer;
+    font-weight: bold;
+
+}
+
+.social-links ul {
+    height: 0.5cm;
+    padding-bottom: 3em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social-links a:hover {
+    background-color: #1F1D36;
+    color: #FFCACA;
+    transition: 0.5s;
+}
+/* content 4 */
