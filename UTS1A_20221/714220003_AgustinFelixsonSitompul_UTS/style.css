@@ -1,0 +1,88 @@
+h2 {
+    font-family: 'Righteous', cursive;
+    font-family: 'Viga', sans-serif;
+  }
+
+  .navbar .container {
+    padding: 10px 0;
+    font-size: 18px;
+  }
+
+  li {
+    font-weight: 500;
+  }
+
+  .navbar .container .navbar-brand {
+    font-size: 30px;
+    font-family: 'Righteous', cursive;
+    font-family: 'Viga', sans-serif;
+  }
+
+  .jumbotron {
+    padding-top: 15rem;
+    background-color: #e2edff;
+  }
+
+  .jumbotron img {
+    cursor: pointer;
+  }
+
+  .jumbotron img:hover {
+    transform: scale(1.1);
+    transition: 0.5s;
+  }
+
+  h1 {
+    font-family: 'Righteous', cursive;
+    font-family: 'Viga', sans-serif;
+    margin-top: 25px;
+  }
+
+  hr {
+    width: 200px;
+    border-top: 2px solid black;
+    margin: auto;
+  }
+
+  .jumbotron p {
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.5);
+  }
+
+  .lead {
+    margin-top: 20px;
+  }
+
+  section {
+    padding-top: 8rem;
+  }
+
+  /* Projects */
+  #akademik {
+    background-color:black;
+  }
+
+  @media (min-width: 992px) {
+    hr {
+      width: 600px;
+      border-top: 2px solid black;
+      margin: auto;
+    }
+  }
+
+  .jumbotron {
+    background-color: black;
+  }
+
+  .jumbotron h1 {
+    color: white;
+  }
+
+  #projects h2 {
+    color: white;
+  }
+
+  .navbar {
+    background-color: black;
+    color: black;
+  }
