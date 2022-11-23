@@ -1,0 +1,104 @@
+/* Style keseluruhan */
+* {
+  text-decoration: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+  color: white;
+}
+
+.wrapper {
+  width: 100%;
+  margin: auto;
+  position: relative;
+}
+.logo {
+  font-size: 50px;
+  font-weight: 800;
+  float: left;
+  font-family: 'Fuzzy Bubbles', cursive;
+  color: white;
+}
+
+.menu {
+  float: right;
+}
+nav {
+  width: 100%;
+  margin: auto;
+  display: flex;
+  line-height: 80px;
+  background-color: darkgrey;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  z-index: 1;
+  border-bottom: 1px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+nav ul li {
+  float: left;
+}
+
+nav ul li a {
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  padding: 0px 16px 0px 16px;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}
+
+section {
+  margin: auto;
+  display: flex;
+  margin-bottom: 50px;
+}
+
+.koleksi{
+carousel-control-color: $white;
+carousel-control-width: 15%;
+carousel-control-opacity: 5;
+carousel-control-hover-opacity: 9;
+carousel-control-transition: opacity 15s ease;
+
+carousel-indicator-width: 30px;
+carousel-indicator-height: 3px;
+carousel-indicator-hit-area-height: 10px;
+carousel-indicator-spacer: 3px;
+carousel-indicator-opacity: 5;
+carousel-indicator-active-bg: white;
+carousel-indicator-active-opacity: 1;
+carousel-indicator-transition: opacity 6s ease;
+
+carousel-caption-width: 70%;
+carousel-caption-color: white;
+carousel-caption-padding-y: 1.25rem;
+carousel-caption-spacer: 1.25rem;
+
+carousel-control-icon-width: 2rem;
+
+carousel-control-prev-icon-bg: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='#{$carousel-control-color}'><path d='M11.354 1.646a.5.5 0 0 1 0 708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 708 0z'/></svg>");
+carousel-control-next-icon-bg: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='#{$carousel-control-color}'><path d='M4.646 1.646a.5.5 0 0 1 708 0l6 6a.5.5 0 0 1 0 708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z'/></svg>");
+
+carousel-transition-duration: 6s;
+carousel-transition: transform $carousel-transition-duration ease-in-out; // Define transform transition first if using multiple transitions (e.g., `transform 2s ease, opacity 5s ease-out`);
+}
