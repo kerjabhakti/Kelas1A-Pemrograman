@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'montserrat';
+}
+
+.logo{
+    font-size: 30px;
+    font-weight: 600;
+    float: left;
+    color: aliceblue;
+}
+
+.menu{float: right;
+  margin-left: 650px
+}
+
+nav{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    line-height: 65px;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    background-color: rgb(36, 36, 36);
+    z-index: 1;
+    border-bottom: 1px;
+
+}
+
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav ul li{
+    float: left;
+}
+
+nav ul li a{
+    color: rgb(140, 140, 140);
+    text-align: center;
+    padding: 0px 20px 0px 20px;
+    text-decoration: none;
+}
+
+nav ul li a:hover{
+    color: rgb(228, 228, 228);
+}
+
+.tombol_hijau{
+    background-color: rgb(93, 29, 29);
+    padding: 10px 15px 10px 15px;
+    border-radius: 10px;
+cursor: pointer;
+
+}
+
+.tombol_hijau:hover{
+    background-color: rgb(0, 100, 0);
+    text-decoration: none;
+}
+
+.paralax{
+background-image: url('25db546b-4135-4c2e-9be2-2409dbfa4b36.jpg');
+background-size: cover ;
+background-position: center;
+background-attachment: fixed;
+min-height: 100vh;
+/* padding-top: ; */
+
+}
+
+.paralax h1{
+text-align: center;
+color: aliceblue;
+font-size: 90px;
+padding-top: 250px;
+}
+
+#Tentang_Kami{
+    padding-top: 250px;
+    background-color: rgb(162, 162, 162);
+    height: 65vh;
+}
+
+#Akademik{
+    padding-top: 0px;
+    background-color: rgb(162, 162, 162);
+    height: 100vh;
+}
+
+#Akademik p{
+    padding-bottom: 60px;
+}
+
+#Galery{
+    height: 90vh;
+    padding-top: 100px;
+}
+
+.tengah{
+    text-align: center;
+    width: 100%;
+
+}
+
+#Galery p{
+    padding-bottom: 50px;
+}
+.foto-list{
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.img-list{
+    width: 20%;
+    margin: 0 auto;
+
+}
+
+.img-list img{
+    width: 80%;
+    border-radius: 30%;
+}
+.img-list p{
+    font-family: 'adobe clean';
+    font-weight: 800;
+    font-size: 25px;
+    text-align: center;
+    color: black;
+}
+
+.kontak{
+    color: rgb(61, 35, 0);
+    background-color: blanchedalmond;
+}
+
+#form{
+    border-style: outset;
+    border-width: 5px;
+    border-radius: 10px;
+    background-color: rgb(205, 222, 222);
+    border-color: black;
+    width: 550px;
+    padding: 15px;
+    padding-top: 0px;
+    margin-top: 100px;
+    margin-left: 100px;}
