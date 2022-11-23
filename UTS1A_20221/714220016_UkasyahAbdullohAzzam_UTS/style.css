@@ -1,0 +1,263 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #FEFEFE;
+}
+
+/* burger icon */
+
+.burger {
+    display: inline-block;
+    cursor: pointer;
+    z-index: 2;
+}
+
+.bar1 .bar2 .bar3 {
+    width: 35px;
+    height: 5px;
+    background-color: #333;
+    margin: 6px;
+    transition: 0.4s;
+    border-radius: 5px;
+}
+
+.change .bar1 {
+    -webkit-transform: rotate(-45deg) translate(-8px, -8px);
+    transform: rotate(45deg) translate(-8px, -8px);
+    background-color: white;
+}
+
+.change .bar2 {
+    opacity: 0;
+    background-color: white;
+}
+
+.change .bar3 {
+    -webkit-transform: rotate(-45deg) translate(-8px, -8px);
+    transform: rotate(45deg) translate(-8px, -8px);
+    background-color: white;
+}
+
+/* wrapper */
+
+.container-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav {
+    padding: 10px 20px;
+    box-shadow: 1px 2px 10px 2px rgba(0, 0, 0, .1);
+}
+
+nav .brand a {
+    font-size: 1.4rem;
+    text-decoration: none;
+    font-weight: 550;
+}
+
+.bg-sidebar {
+    top: 0;
+    right: -100%;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    background: rgba(0,0,0,.1);
+    transition: .3s;
+    visibility: hidden;
+}
+
+.bg-sidebar.change {
+    right: 0;
+    visibility: visible;
+    display: block;
+}
+
+nav ul {
+    display: flex;
+    position: fixed;    
+    background-color:#505050;
+    top: 0;
+    bottom: 0;
+    right: -300px;
+    width: 300px;
+    transition: .5s;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+nav ul.change{
+    right: 0;
+    transition: .5s;
+}
+
+nav ul li{
+    list-style: none;
+    padding: 20px 15px;
+}
+
+nav ul li a {
+    color: white;
+    font-size: 1.2rem;
+    text-decoration: none;
+}
+
+@media screen and (min-width: 960px) {
+
+    .bg-sidebar.change {
+     right: 0;
+     visibility: hidden;
+     display: none;
+    }
+
+    .burger {
+        display: none;
+      }
+    
+      nav {
+        position: relative;
+      }
+    
+      nav ul {
+        display: flex;
+        position: relative;    
+        background-color:unset;
+        top: unset;
+        bottom: unset;
+        right: unset;
+        width: unset;
+        flex-direction: row;
+      }
+    
+      nav ul li {
+        padding: 10px 15px;
+    
+      }
+    
+      nav ul li:hover::after {
+        content: "";
+        display: block;
+        width: 100%;
+        height: 3px;
+        transition: .3s;
+        background-color: black;
+        transform: translateY(20px);
+      }
+    
+    
+      nav ul li a {
+        color: black;
+        font-size: 1.1rem;
+      }
+    
+      nav ul li:last-child {
+        font-weight: 550;
+      }
+
+}
+
+@media screen and (min-width: 1200px) {
+    .container-flex {
+     width: 100%;
+     max-width: 1024px;
+     margin: auto;
+     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    }
+}
+
+.parallax {
+    min-height: 100vh;
+    background-image: linear-gradient(to bottom,rgba(0,0,0,0)0%,
+    rgba(0,0,0,0.2),
+    rgba(0,0,0,0.2)),
+    url(Dino.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    letter-spacing: 0.3em;
+    text-align: center;
+}
+
+.text {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#content {
+    background-color: #181818;
+    box-sizing: border-box;
+    height: 100vh;
+    background-attachment: scroll;
+    background-size: cover;
+    max-width: 100%;
+    display: flex;
+}
+
+section{
+    margin: auto;
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.text-content{
+    color: #ffffff;
+    font-family: 'Courier New', sans-serif;
+    width: 750px;
+    letter-spacing: 0.1em;
+    line-height: 20px;
+    position: center;
+    margin: auto;
+}
+
+.tengah {
+    text-align: center;
+    width: 100%;
+}
+
+.page-list {
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card-page {
+    width: 20%;
+    margin: 0 auto;
+}
+
+.card-page img{
+    width: 80%;
+    border-radius: 50%
+}
+
+.card-page p{
+    font-family: 'comis sans ms';
+    font-weight: 800;
+    font-size: 25px;
+    text-align: center;
+    color: #ffffff;
+}
+
+#content1 {
+    background-color: #181818;
+    box-sizing: border-box;
+    height: 45vh;
+    background-attachment: scroll;
+    background-size: cover;
+    max-width: 100%;
+    display: flex;
+}
