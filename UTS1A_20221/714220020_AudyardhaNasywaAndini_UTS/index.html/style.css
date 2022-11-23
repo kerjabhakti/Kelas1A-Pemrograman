@@ -1,0 +1,259 @@
+* {
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  /* overflow-x: hidden; */
+}
+
+body {
+  margin: 0px;
+  /* margin-right: 200px; */
+  padding: 0px;
+  font-family: "open sans", sans-serif;
+  background-color: #ffffff;
+}
+
+.wrapper {
+  width: 1100px;
+  margin: auto;
+  position: relative;
+}
+
+.logo {
+  font-size: 50px;
+  font-weight: 800;
+  float: left;
+  font-family: "Courier New", Courier, monospace;
+  color: #ffecef;
+}
+
+.menu {
+  float: right;
+}
+
+nav {
+  width: 100%;
+  margin: auto;
+  display: flex;
+  line-height: 80px;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  background: #048b4c;
+  z-index: 1;
+  border-bottom: 1px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+nav ul li {
+  float: left;
+}
+
+nav ul li a {
+  color: #ffecef;
+  font-weight: bold;
+  text-align: center;
+  padding: 0px 12px 0px 12px;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+  color: #ffcaca;
+  transition: 0.5s;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.profil {
+  background: rgb(206, 97, 191);
+  color: white;
+  text-align: center;
+  padding: 15px 10px;
+  height: 100vh;
+  display: flex;
+  align-content: center;
+}
+
+.profil .wrapper h2 {
+  text-shadow: 0 4px 0px black;
+  font-size: 2.5rem;
+  text-transform: uppercase;
+  border-bottom: 7px solid white;
+  display: inline-block;
+  padding-bottom: 7px;
+  margin-bottom: 40px;
+}
+
+.koleksi {
+  background: rgb(241, 159, 231);
+  color: white;
+  text-align: center;
+  padding: 15px 10px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.koleksi .wrapper {
+  padding: 5opx;
+}
+
+.koleksi .wrapper h2 {
+  text-shadow: 0 4px 0px black;
+  font-size: 2.5rem;
+  text-transform: uppercase;
+  border-bottom: 7px solid white;
+  display: inline-block;
+  padding-bottom: 7px;
+  margin-bottom: 40px;
+}
+
+.koleksi .wrapper .wrapper-koleksi {
+  display: grid;
+  grid-gap: 30px;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.wrapper-koleksi a {
+  text-decoration: none;
+  text-align: left;
+  color: white;
+  text-shadow: 0 4px 0px black;
+  font-size: 20px;
+}
+
+.kontak {
+  background: rgb(241, 159, 231);
+  color: white;
+  text-align: center;
+  padding: 15px 10px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.kontak .wrapper h2 {
+  text-shadow: 0 4px 0px black;
+  font-size: 2.5rem;
+  text-transform: uppercase;
+  border-bottom: 7px solid white;
+  display: inline-block;
+  padding-bottom: 7px;
+  margin-bottom: 40px;
+}
+
+.kontak .wrapper-kontak input,
+.kontak .wrapper-kontak textarea {
+  width: 100%;
+  height: 30px;
+  border: none;
+  border-radius: 11px;
+  padding: 10px 15px;
+  margin-bottom: 18px;
+  font-family: sans-serif;
+}
+
+.kontak .wrapper-kontak textarea {
+  height: 120px;
+}
+
+.kontak .wrapper-kontak input[type="submit"] {
+  color: black;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-radius: 15px;
+  padding: 10px 30px;
+  border: 5px solid black;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background: rgb(206, 97, 191);
+  display: inline-block;
+  padding-bottom: 23px;
+  width: auto;
+  cursor: painter;
+  transition: all 0.5s ease-out;
+}
+
+.kontak .wrapper-kontak input[type="submit"]:hover {
+  background: rgb(241, 159, 231);
+  box-shadow: 0 15px 25px -5px rgba(0, 0, 0, 0.7);
+}
+
+.login {
+  background: rgb(241, 159, 231);
+  color: white;
+  text-align: center;
+  padding: 15px 10px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.login .wrapper h2 {
+  text-shadow: 0 4px 0px black;
+  font-size: 2.5rem;
+  text-transform: uppercase;
+  border-bottom: 7px solid white;
+  display: inline-block;
+  padding-bottom: 7px;
+  margin-bottom: 40px;
+}
+
+.login .wrapper-login input,
+.login .wrapper-login textarea {
+  width: 100%;
+  height: 30px;
+  border: none;
+  border-radius: 11px;
+  padding: 10px 15px;
+  margin-bottom: 18px;
+  font-family: sans-serif;
+}
+
+.login .wrapper-login textarea {
+  height: 120px;
+}
+
+.login .wrapper-login input[type="submit"] {
+  color: black;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-radius: 15px;
+  padding: 10px 30px;
+  border: 5px solid black;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background: rgb(206, 97, 191);
+  display: inline-block;
+  padding-bottom: 23px;
+  width: auto;
+  cursor: painter;
+  transition: all 0.5s ease-out;
+}
+
+.login .wrapper-login input[type="submit"]:hover {
+  background: rgb(241, 159, 231);
+  box-shadow: 0 15px 25px -5px rgba(0, 0, 0, 0.7);
+}
+
+footer {
+  background: white;
+  color: black;
+  text-align: center;
+  padding: 15px 0;
+}
