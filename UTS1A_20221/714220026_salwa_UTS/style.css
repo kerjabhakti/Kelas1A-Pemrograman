@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    scroll-behavior: smooth;
+}
+.wrapper {
+    width: 100%;
+    margin: auto;
+    position: relative;
+}
+.main {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url("https://www.pexels.com/id-id/foto/tulang-hewan-236482/");
+    background-size: cover;
+    background-position: center;
+}
+.logo{
+    font-size: 50px;
+    font-weight: 800;
+    float: left;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+nav{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    font-family:  'comic sans ms';
+    line-height: 80px;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+} 
+nav ul{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+nav ul li {
+    float: left;
+}
+
+nav ul li a{
+    color:white;
+    font-weight: bold;
+    text-align: center;
+    padding: 0px 16px 0px 16px;
+    text-decoration: none;
+}
+
+.beranda{
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: white;
+    position: absolute;
+    transform: translateY(-50%); 
+}
+.beranda h2{
+    font-size: 30px;
+    color: white;
+    margin-bottom: 10px;
+}
+.koleksi{
+    margin-left: 45%;
+    margin-top: 20%;
+}
+.koleksi h2{
+    font-size: 25px;
+    color: white;
+    margin-bottom: 30px;
+}
+.foto-list{
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 5%;
+}
+.card-foto{
+    width: 30%;
+    margin: auto;
+
+}
+.card-foto img{
+    width: 270px;
+    border-radius: 50%;
+}
