@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    scroll-behavior: smooth;
+}
+.beranda {
+    width: 100%;
+    height: 100vh;
+    background-image: url(Bg1.webp);
+    background-size: cover;
+    background-position: center;
+}
+.menu {
+    padding: 10px;
+    font-size: 36px;
+    color: white;
+    font-weight: bold;
+    width: 30%;
+    position: relative;
+}
+.navbar {
+    width: 100%;
+    background: #343a40;
+    position: fixed;
+    top: 0;
+    height: 60px;
+    display: flex;
+    justify-content: space-around;
+}
+.navbar ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 20px;
+    position: relative;
+}
+.navbar ul li a {
+    color: white;
+}
+/* courocel */
+.carousel-item {
+    height: 670px;
+}
+.carousel-item img {
+    margin-top: -120px;
+    height: 800px;
+}
+.carousel-item .display-4 {
+    margin-top: -400px;
+}
+.membaca .h1{
+    font-size: 30px;
+}
+footer {
+    padding: 50px 0px 50px 0px;
+    background-color: #343a40;
+    color: #fff;
+}
+footer .layar-dalam {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+footer .layar-dalam div {
+    width: 20%;
+}
+footer .layar-dalam h5 {
+    margin-top: 0px;
+    font-size: 20px;
+    font-weight: bold;
+}
