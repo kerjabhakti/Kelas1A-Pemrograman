@@ -43,7 +43,7 @@ File dimasukan di Folder masing-masing
 
 ## Kelompok 10
 714220018 Sindy Maulina <br>
-714220005 M. Fachriza Farhan 
+714220005 M. Fachriza Farhan https://github.com/Ichika354
 
 ## Kelompok 11
 714220022 Muhammad Rifky <br>
