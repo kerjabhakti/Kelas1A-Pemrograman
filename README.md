@@ -23,7 +23,7 @@ File dimasukan di Folder masing-masing
 
 ## Kelompok 5
 714220028 Ahmad Rifki Ayala <br>
-714220019 Waskitho Cito Adiwiguno
+714220019 Waskitho Cito Adiwiguno (https://github.com/EtoniaThea)
 
 ## Kelompok 6
 714220045 Nayaka Taqwa https://github.com/AKT74 <br>
