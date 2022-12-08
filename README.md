@@ -6,7 +6,7 @@ File dimasukan di Folder masing-masing
 
 
 ## Kelompok 1:
-714220003 AGUSTIN FELIXSON DIOSDADO SITOMPUL (https://github.com/KerjaBhakti/Kelas1A-Pemrograman/blob/master/README.md) <br>
+714220003 AGUSTIN FELIXSON DIOSDADO SITOMPUL <br>
 714220015 Difta Alghifari Aryanto  <br>
 
 ## Kelompok 2
