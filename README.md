@@ -2,6 +2,8 @@
 Ini adalah folder yang berisi Tugas Mahasiswa
 File dimasukan di Folder masing-masing
 
+## Masukan Link Repository Github pada File README
+
 
 ## Kelompok 1:
 714220003 AGUSTIN FELIXSON DIOSDADO SITOMPUL <br>
