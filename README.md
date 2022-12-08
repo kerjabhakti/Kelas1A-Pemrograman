@@ -26,7 +26,7 @@ File dimasukan di Folder masing-masing
 714220019 Waskitho Cito Adiwiguno
 
 ## Kelompok 6
-714220045 Nayaka Taqwa <br>
+714220045 Nayaka Taqwa https://github.com/AKT74 <br>
 714220008 Muhammad Rafli Alfarisi
 
 ## Kelompok 7
