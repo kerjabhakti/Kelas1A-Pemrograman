@@ -7,7 +7,7 @@ File dimasukan di Folder masing-masing
 
 ## Kelompok 1:
 714220003 AGUSTIN FELIXSON DIOSDADO SITOMPUL <br>
-714220015 Difta Alghifari Aryanto
+714220015 Difta Alghifari Aryanto (https://github.com/KerjaBhakti/Kelas1A-Pemrograman/blob/master/README.md)
 
 ## Kelompok 2
 714220051 Muhammad Rizqi Awaludin <br>
