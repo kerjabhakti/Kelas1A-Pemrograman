@@ -59,7 +59,7 @@ File dimasukan di Folder masing-masing
 
 ## Kelompok 14
 714220014 Wafid Adzka Haifan Mukhayyar <br>
-714220025 Muh.Dany Ma'ruf Riadi
+714220025 Muh.Dany Ma'ruf Riadi (https://github.com/MuhDanyMaruf/Kelas1A-Pemrograman)
 
 ## Kelompok 15
 714220010 Fulandi Hudza Grahitama <br>
