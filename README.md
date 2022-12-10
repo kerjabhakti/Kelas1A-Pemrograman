@@ -22,7 +22,7 @@ File dimasukan di Folder masing-masing
 714220053 Fikri Faadhilah Ilham
 
 ## Kelompok 5
-714220028 Ahmad Rifki Ayala <br>
+714220028 Ahmad Rifki Ayala(https://github.com/Ayala_crea) (tugas : https://youtu.be/ms-6qKy214Q)<br>
 714220019 Waskitho Cito Adiwiguno (https://github.com/EtoniaThea)
 
 ## Kelompok 6
