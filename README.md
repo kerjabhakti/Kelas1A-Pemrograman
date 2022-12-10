@@ -62,6 +62,6 @@ File dimasukan di Folder masing-masing
 714220025 Muh.Dany Ma'ruf Riadi (https://github.com/MuhDanyMaruf/Kelas1A-Pemrograman)
 
 ## Kelompok 15
-714220010 Fulandi Hudza Grahitama <br>
+714220010 Fulandi Hudza Grahitama (https://github.com/vancitywayne) <br>
 714220001 Muhammad Azka Nuril Islami (https://github.com/KerjaBhakti/Kelas1A-Pemrograman/edit/master/README.md) <br>
 
