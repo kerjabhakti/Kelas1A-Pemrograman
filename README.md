@@ -48,7 +48,7 @@ File dimasukan di Folder masing-masing
 
 ## Kelompok 11
 714220022 Muhammad Rifky <br>
-714220020 Audyardha Nasywa Andini
+714220020 Audyardha Nasywa Andini (https://github.com/Audyardha)
 
 ## Kelompok 12
 714220032 Rania Ayuni Kartini Fitri <br>
