@@ -52,7 +52,7 @@ File dimasukan di Folder masing-masing
 
 ## Kelompok 12
 714220032 Rania Ayuni Kartini Fitri <br>
-714220006 Balqis Rosa Sekamayang
+714220006 Balqis Rosa Sekamayang (https://github.com/balqisrosa)
 
 ## Kelompok 13
 714220009 Muhammad Wildan Khalilurrahman <br>
