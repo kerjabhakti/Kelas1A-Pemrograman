@@ -51,7 +51,7 @@ File dimasukan di Folder masing-masing
 714220020 Audyardha Nasywa Andini (https://github.com/Audyardha)
 
 ## Kelompok 12
-714220032 Rania Ayuni Kartini Fitri <br>
+714220032 Rania Ayuni Kartini Fitri <br> (https://github.com/raniaayuni),(https://youtu.be/evAUJimnhRY)
 714220006 Balqis Rosa Sekamayang (https://github.com/balqisrosa)
 
 ## Kelompok 13
