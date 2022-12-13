@@ -32,7 +32,7 @@ File dimasukan di Folder masing-masing
 
 ## Kelompok 7
 714220004 Muhammad Farhan Akbar Muhlis <br>
-714220011 Gaizka Wisnu Prawira (https://github.com/Wangjarim) 
+714220011 Gaizka Wisnu Prawira (https://github.com/Wangjarim) (https://youtu.be/zr69CxbF8J8) 
 
 ## Kelompok 8
 714220029 Aditya Prabowo <br>
