@@ -14,7 +14,7 @@ File dimasukan di Folder masing-masing
 714220007 Gading Khairlambang (https://github.com/mieramensatu)
 
 ## Kelompok 3
-714220026 Salwa Mutfia Indah Putri <br> (https://github.com/salwaputri123)
+714220026 Salwa Mutfia Indah Putri <br> (https://github.com/salwaputri123)(https://youtu.be/GWz_zLUvaKY)
 
 714220024 Mokhamad Hafiz Ihza Rassid
 
