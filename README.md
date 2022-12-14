@@ -65,5 +65,5 @@ File dimasukan di Folder masing-masing
 
 ## Kelompok 15
 714220010 Fulandi Hudza Grahitama (https://github.com/vancitywayne) <br>
-714220001 Muhammad Azka Nuril Islami (https://github.com/KerjaBhakti/Kelas1A-Pemrograman/edit/master/README.md) <br>
+714220001 Muhammad Azka Nuril Islami (https://github.com/KostsPlayer) <br>
 
