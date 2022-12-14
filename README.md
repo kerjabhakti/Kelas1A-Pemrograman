@@ -24,7 +24,7 @@ File dimasukan di Folder masing-masing
 
 ## Kelompok 5
 714220028 Ahmad Rifki Ayala(https://github.com/Ayala_crea) (tugas : https://youtu.be/ms-6qKy214Q)<br>
-714220019 Waskitho Cito Adiwiguno (https://github.com/EtoniaThea)
+714220019 Waskitho Cito Adiwiguno (https://github.com/EtoniaThea) : https://www.youtube.com/@ritrovact3444/videos
 
 ## Kelompok 6
 714220045 Nayaka Taqwa (https://github.com/AKT74) <br>
