@@ -40,7 +40,7 @@ File dimasukan di Folder masing-masing
 714220021 Muhammad Fathir (https://github.com/sipatir08) (https://youtu.be/yTbkrlKuouk)
 
 ## Kelompok 9
-714220016 Ukasyah Abdulloh Azzam <br>
+714220016 Ukasyah Abdulloh Azzam (https://github.com/Zamy03) <br>
 714220012 Fathya Fathimah Azzahra (https://github.com/fathyafathazz) (https://youtu.be/-IFqwyr6IQI)
 
 ## Kelompok 10
