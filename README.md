@@ -11,7 +11,7 @@ File dimasukan di Folder masing-masing
 
 ## Kelompok 2
 714220051 Muhammad Rizqi Awaludin <br>
-714220007 Gading Khairlambang (https://github.com/mieramensatu)
+714220007 Gading Khairlambang (https://github.com/mieramensatu) (Tugas: https://www.youtube.com/watch?v=5UYQwhm7amI&ab_channel=GadingKhairlambang)
 
 ## Kelompok 3
 714220026 Salwa Mutfia Indah Putri <br> (https://github.com/salwaputri123) (Tugas:https://youtu.be/GWz_zLUvaKY)
