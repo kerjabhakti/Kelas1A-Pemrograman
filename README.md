@@ -56,7 +56,7 @@ File dimasukan di Folder masing-masing
 714220006 Balqis Rosa Sekamayang (https://github.com/balqisrosa)  (https://youtu.be/8hzVrm6vXqc)
 
 ## Kelompok 13
-714220009 Muhammad Wildan Khalilurrahman <br>
+714220009 Muhammad Wildan Khalilurrahman (https://github.com/gibs952) (https://youtu.be/E48mzzGsOkE) <br>
 714220047 Melani Isnaini
 
 ## Kelompok 14
