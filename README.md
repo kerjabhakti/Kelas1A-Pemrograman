@@ -28,7 +28,7 @@ File dimasukan di Folder masing-masing
 714220019 Waskitho Cito Adiwiguno (https://github.com/EtoniaThea) : https://www.youtube.com/@ritrovact3444/videos
 
 ## Kelompok 6
-714220045 Nayaka Taqwa (https://github.com/AKT74) <br>
+714220045 Nayaka Taqwa (https://github.com/AKT74) tugas : https://www.youtube.com/watch?v=--di2rloW3c <br>
 714220008 Muhammad Rafli Alfarisi (https://github.com/MuhammadRafliAlfarisi)  (https://youtu.be/s7bjRiwaVZc)
 
 ## Kelompok 7
