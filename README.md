@@ -21,7 +21,7 @@ File dimasukan di Folder masing-masing
 ## Kelompok 4
 714220002 Dewi Kresnawati <br> (https://github.com/DewiKresnawati) (https://youtu.be/DwydSZyaF2Q)
 
-714220053 Fikri Faadhilah Ilham
+714220053 Fikri Faadhilah Ilham (https://github.com/Faaddd) (https://youtu.be/kssk8nV7rRA)
 
 ## Kelompok 5
 714220028 Ahmad Rifki Ayala(https://github.com/Ayala_crea) (tugas : https://youtu.be/ms-6qKy214Q)<br>
