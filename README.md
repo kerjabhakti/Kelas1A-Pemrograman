@@ -41,7 +41,7 @@ File dimasukan di Folder masing-masing
 
 ## Kelompok 9
 714220016 Ukasyah Abdulloh Azzam <br>
-714220012 Fathya Fathimah Azzahra
+714220012 Fathya Fathimah Azzahra (https://github.com/fathyafathazz) (https://youtu.be/-IFqwyr6IQI)
 
 ## Kelompok 10
 714220018 Sindy Maulina <br>
