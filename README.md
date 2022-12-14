@@ -29,7 +29,7 @@ File dimasukan di Folder masing-masing
 
 ## Kelompok 6
 714220045 Nayaka Taqwa (https://github.com/AKT74) <br>
-714220008 Muhammad Rafli Alfarisi (https://github.com/MuhammadRafliAlfarisi)(https://youtu.be/s7bjRiwaVZc)
+714220008 Muhammad Rafli Alfarisi (https://github.com/MuhammadRafliAlfarisi)  (https://youtu.be/s7bjRiwaVZc)
 
 ## Kelompok 7
 714220004 Muhammad Farhan Akbar Muhlis <br>
