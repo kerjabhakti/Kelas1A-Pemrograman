@@ -19,7 +19,8 @@ File dimasukan di Folder masing-masing
 714220024 Mokhamad Hafiz Ihza Rassid
 
 ## Kelompok 4
-714220002 Dewi Kresnawati <br> (https://github.com/DewiKresnawati)
+714220002 Dewi Kresnawati <br> (https://github.com/DewiKresnawati) (https://youtu.be/DwydSZyaF2Q)
+
 714220053 Fikri Faadhilah Ilham
 
 ## Kelompok 5
