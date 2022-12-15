@@ -48,7 +48,7 @@ File dimasukan di Folder masing-masing
 714220005 M. Fachriza Farhan https://github.com/Ichika354 (https://youtu.be/eYPhxH9nnKc)
 
 ## Kelompok 11
-714220022 Muhammad Rifky <br>
+714220022 Muhammad Rifky (https://github.com/KYCE26) <br>
 714220020 Audyardha Nasywa Andini (https://github.com/Audyardha) (https://youtu.be/HNvR-ekH7HU)
 
 ## Kelompok 12
