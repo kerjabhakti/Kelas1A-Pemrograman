@@ -60,7 +60,7 @@ File dimasukan di Folder masing-masing
 714220047 Melani Isnaini
 
 ## Kelompok 14
-714220014 Wafid Adzka Haifan Mukhayyar <br>
+714220014 Wafid Adzka Haifan Mukhayyar (https://github.com/wafidadzka2105/Kelas1A-Pemrograman) <br>
 714220025 Muh.Dany Ma'ruf Riadi (https://github.com/MuhDanyMaruf/Kelas1A-Pemrograman) (tugas : https://www.youtube.com/channel/UCT_PYiRBPV9qWN9RL9SkKng)
 
 ## Kelompok 15
