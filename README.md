@@ -16,7 +16,7 @@ File dimasukan di Folder masing-masing
 ## Kelompok 3
 714220026 Salwa Mutfia Indah Putri <br> (https://github.com/salwaputri123) (Tugas:https://youtu.be/GWz_zLUvaKY)
 
-714220024 Mokhamad Hafiz Ihza Rassid (https://github.com/hapis20)
+714220024 Mokhamad Hafiz Ihza Rassid
 
 ## Kelompok 4
 714220002 Dewi Kresnawati <br> (https://github.com/DewiKresnawati) (https://youtu.be/DwydSZyaF2Q)
@@ -44,7 +44,7 @@ File dimasukan di Folder masing-masing
 714220012 Fathya Fathimah Azzahra (https://github.com/fathyafathazz) (https://youtu.be/-IFqwyr6IQI)
 
 ## Kelompok 10
-714220018 Sindy Maulina <br>
+714220018 Sindy Maulina <br> https://github.com/SindyMaulina02
 714220005 M. Fachriza Farhan https://github.com/Ichika354 (https://youtu.be/eYPhxH9nnKc)
 
 ## Kelompok 11
