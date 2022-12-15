@@ -10,13 +10,13 @@ File dimasukan di Folder masing-masing
 714220015 Difta Alghifari Aryanto  <br>
 
 ## Kelompok 2
-714220051 Muhammad Rizqi Awaludin <br> (https://github.com/rizqiw123)
+714220051 Muhammad Rizqi Awaludin <br>
 714220007 Gading Khairlambang (https://github.com/mieramensatu) (Tugas: https://www.youtube.com/watch?v=5UYQwhm7amI&ab_channel=GadingKhairlambang)
 
 ## Kelompok 3
 714220026 Salwa Mutfia Indah Putri <br> (https://github.com/salwaputri123) (Tugas:https://youtu.be/GWz_zLUvaKY)
 
-714220024 Mokhamad Hafiz Ihza Rassid
+714220024 Mokhamad Hafiz Ihza Rassid (https://github.com/hapis20)
 
 ## Kelompok 4
 714220002 Dewi Kresnawati <br> (https://github.com/DewiKresnawati) (https://youtu.be/DwydSZyaF2Q)
