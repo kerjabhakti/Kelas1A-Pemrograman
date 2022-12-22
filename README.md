@@ -10,7 +10,7 @@ File dimasukan di Folder masing-masing
 714220015 Difta Alghifari Aryanto  <br>
 
 ## Kelompok 2 - LambeMu.com = Website berita terhot contoh : detikNews
-714220051 Muhammad Rizqi Awaludin <br>
+714220051 Muhammad Rizqi Awaludin <br> https://github.com/rizqiw123
 714220007 Gading Khairlambang (https://github.com/mieramensatu) (Tugas: https://www.youtube.com/watch?v=5UYQwhm7amI&ab_channel=GadingKhairlambang)
 
 ## Kelompok 3 - Jual Beli Kos2an murah meriah
