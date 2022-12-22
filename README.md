@@ -16,7 +16,7 @@ File dimasukan di Folder masing-masing
 ## Kelompok 3
 714220026 Salwa Mutfia Indah Putri <br> (https://github.com/salwaputri123) (Tugas:https://youtu.be/GWz_zLUvaKY)
 
-714220024 Mokhamad Hafiz Ihza Rassid
+714220024 Mokhamad Hafiz Ihza Rassid (https://github.com/hapis20)
 
 ## Kelompok 4
 714220002 Dewi Kresnawati   (https://github.com/DewiKresnawati) (https://youtu.be/DwydSZyaF2Q) <br>
