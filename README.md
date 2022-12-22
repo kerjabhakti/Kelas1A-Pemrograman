@@ -57,7 +57,7 @@ File dimasukan di Folder masing-masing
 
 ## Kelompok 13 - Web Film Mitsmovie (Menggunakan Login)
 714220009 Muhammad Wildan Khalilurrahman (https://github.com/gibs952) (https://youtu.be/E48mzzGsOkE) <br>
-714220047 Melani Isnaini
+714220047 Melani Isnaini (https://github.com/melanisnaini)
 
 ## Kelompok 14 - PinjeminAja (Pinjol)
 714220014 Wafid Adzka Haifan Mukhayyar (https://github.com/wafidadzka2105) <br>
