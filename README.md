@@ -24,6 +24,7 @@ File dimasukan di Folder masing-masing
 714220053 Fikri Faadhilah Ilham (https://github.com/Faaddd) (https://youtu.be/kssk8nV7rRA)
 
 ## Kelompok 5
+(Aplikasi Rental PS)
 714220028 Ahmad Rifki Ayala(https://github.com/Ayala_crea) (tugas : https://youtu.be/ms-6qKy214Q)<br>
 714220019 Waskitho Cito Adiwiguno (https://github.com/EtoniaThea) : https://www.youtube.com/@ritrovact3444/videos
 
