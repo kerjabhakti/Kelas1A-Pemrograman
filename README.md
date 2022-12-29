@@ -42,7 +42,8 @@ File dimasukan di Folder masing-masing
 
 ## Kelompok 9 - Aplikasi Logistik untuk manajemem barang Toko
 714220016 Ukasyah Abdulloh Azzam (https://github.com/Zamy03) (https://youtu.be/m3Zqt3y3jS0) <br>
-714220012 Fathya Fathimah Azzahra (https://github.com/fathyafathazz) (https://youtu.be/-IFqwyr6IQI)
+714220012 Fathya Fathimah Azzahra (https://github.com/fathyafathazz) (https://youtu.be/-IFqwyr6IQI)<br>
+(https://github.com/Zamy03/Tugas-Besar-Semester-1-Kelompok-9)
 
 ## Kelompok 10 - website pembayaran topup game
 714220018 Sindy Maulina  https://github.com/SindyMaulina02 <br>
