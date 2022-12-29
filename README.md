@@ -8,7 +8,7 @@ File dimasukan di Folder masing-masing
 
 ## Kelompok 1 - Climb outdoor (tanya ke yang bikin judul)
 714220003 AGUSTIN FELIXSON DIOSDADO SITOMPUL <br>
-714220015 Difta Alghifari Aryanto  <br>
+714220015 Difta Alghifari Aryanto (https://github.com/thxinsomnia)  <br>
 
 ## Kelompok 2 - LambeMu.com = Website berita terhot contoh : detikNews
 714220051 Muhammad Rizqi Awaludin <br> https://github.com/rizqiw123
