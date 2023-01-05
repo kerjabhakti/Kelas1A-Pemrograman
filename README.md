@@ -33,7 +33,7 @@ File dimasukan di Folder masing-masing
 714220008 Muhammad Rafli Alfarisi (https://github.com/MuhammadRafliAlfarisi)  (https://youtu.be/s7bjRiwaVZc)
 
 ## Kelompok 7 - gym website with workout
-714220004 Muhammad Farhan Akbar Muhlis (https://github.com/Farhan1654)
+714220004 Muhammad Farhan Akbar Muhlis (https://github.com/Farhan1654) (https://www.youtube.com/watch?v=XaU2NSpkV8M&t=31s)
 714220011 Gaizka Wisnu Prawira (https://github.com/Wangjarim) (https://youtu.be/zr69CxbF8J8) 
 
 ## Kelompok 8 - Sistem Absensi Karyawan
