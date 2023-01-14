@@ -47,7 +47,8 @@ File dimasukan di Folder masing-masing
 
 ## Kelompok 10 - website pembayaran topup game
 714220018 Sindy Maulina  https://github.com/SindyMaulina02 <br>
-714220005 M. Fachriza Farhan https://github.com/Ichika354 (https://youtu.be/eYPhxH9nnKc)
+714220005 M. Fachriza Farhan https://github.com/Ichika354 (https://youtu.be/eYPhxH9nnKc)<br>
+Tugas Besar(https://github.com/SindyMaulina02/Project-team10);
 
 ## Kelompok 11 - Point Laundry
 714220022 Muhammad Rifky (https://github.com/KYCE26) <br>
